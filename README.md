@@ -22,4 +22,6 @@ mkdir build && cd build && cmake -G "Visual Studio 12" ..
 * 最低要求cmake的2.8版本
 * 编译要求VSC6~VS12
 
+test.......
+
 
